@@ -6,7 +6,7 @@ const UPLOAD_PRESET = "wedding";
 
 // Optional: tweak limits for guests
 const MAX_FILES_PER_BATCH = 25;            // widget maxFiles
-const MAX_FILE_SIZE_BYTES = 25 * 1000 * 1000; // 25 MB client-side limit
+const MAX_FILE_SIZE_BYTES = 25 * 1000 * 10000; // 25 MB client-side limit
 
 // =======================================================
 // UI helpers
